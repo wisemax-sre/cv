@@ -1,40 +1,36 @@
+Maxim Marzlyakov - Dev Ops, Linux operating systems engineer
 
-מקסים מרזליאקוב – דב אופס, מהנדס מערכות הפעלה לינוקס
-
-פל': 050 - 4797775
-דוא"ל: max.toplavia@gmail.com
-
+Ph.: 050 - 4797775
+Email: max.toplavia@gmail.com
 
 
 
 
 
-תאריך לידה: 18/8/1983
-כתובת: חולון, רחוב רחבעם זאבי 20
- 
- 
-משרות מבוקשות: דב אופס SRE, איש סיסטם לינוקס
 
-השכלה
+Date of birth: 8/18/1983
+Address: Holon, 20 Rehavam Zaevi St
 
-2021:  אוניברסיטת בר אילן AWS Certified Cloud Practitioner 
-2019 – 2021: אוניברסיטת בר אילן DevSecOps Engineer
-2019: מכללת ג’ון ברייס - מהנדס מערכות לינוקס מוסמך בסביבת אנטרפרייז RHCE  
-2018 - 2019: מכללת ג’ון ברייס - קורס מנהל רשת לינוקס RHCSA .
-2004 - 2003: מכללת ניומן סנטר - קורס טכנאי מחשבים ורשתות תקשורת .
-2003 - 1996: מכללת שבח מופת - בגרות מלאה באלקטרוניקה, חשמל ומחשבים .
+Wanted jobs: Dev Ops SRE, Linux system person
+education
+2021: Bar Ilan University AWS Certified Cloud Practitioner
+2019 – 2021: Bar Ilan University DevSecOps Engineer
+2019: John Bryce College - Certified Linux Systems Engineer in the Enterprise Environment RHCE
+2018 - 2019: John Bryce College - RHCSA Linux Network Administrator course.
+2004 - 2003: Newman Center College - computer technician course and communication networks.
+2003 - 1996: Shobach Moft College - full matriculation in electronics, electricity and computers.
 
+Experience in the industry
+2019-2022: Tech-eight network manager, IT manager, dev ops
 
-ניסיון בענף
-2019-2022 : טק-אייטי מנהל רשת,מנהל IT,דב אופס
-במסגרת התפקיד :אוטומציה של תעליכי IT, יצירת שירותי מערוכות הפעלה UBUNTU
-יצירה והסבה של סביבות עבודה שונות כגון קונטיינרים ו AWS וAZURE תמיכה בשרתים פיזיים גיבויים התקנות אוטומציה ומוניטורינג. 
+As part of the position: automation of IT processes, creation of UBUNTU operating system services
+Creation and conversion of different work environments such as containers and AWS and AZURE, support for physical servers, backups, installations, automation and monitoring.
 
-2019 –2016 : טופ לביא בע"ם  טכנאי מחשבים ורשתות תקשורת, איש IT
+2016-2019: Top Lavia Ltd. computer and communication network technician, IT person
 
-במסגרת התפקיד : חידוש והתקנה של מחשבים ורשתות עדכניות, התקנות תוכנות לפי צורך(MS Office, Benarit,Photoshop,etc) שיפור ביצועי Windows 10 , מתן תמיכה פרונטאלית וטלפונית לעובדי החברה, טיפול מידי בתקלות חומרה,תוכנה ותקשורת.
+As part of the position: renewing and installing up-to-date computers and networks, installing software as needed (MS Office, Benarit, Photoshop, etc.), improving Windows 10 performance, providing face-to-face and telephone support to the company's employees, immediate handling of hardware, software and communication faults.
 
-סביבת עבודה ותוכנות
+Work environment and programs
 shell scripting BASH
 GIT
 ATLASSIAN CONFLUENCE
@@ -46,14 +42,14 @@ AZURE
 LINUX SYSTEMS ENGINEERING
 UBUNTU 18 & 21
 CentOS 7 & 8
-VmWare
+VMware
 Windows 10 & Windows Server
 
-שפות
-אנגלית: ברמת שפת אם 
-עברית: ברמת שפת אם 
-רוסית: שפת אם 
+Languages
+English: at a native language level
+Hebrew: at a native language level
+Russian - mother tongue
 
-תכונות נוספות
-חרוץ ורציני, יחסי אנוש מעולים, ראש פתוח, אמין.
-מוסר עבודה גבוה, הסתגלות מהירה לשינויים, יכולת למידה גבוה.
+additional qualities
+Hardworking and serious, excellent human relations, open-minded, reliable.
+High work ethic, quick adaptation to changes, high learning ability.
