@@ -1,18 +1,14 @@
 Maxim Marzlyakov - DevSecOps, linux operating systems engineer
 
-Ph.: 050 - 4797775
+Phone: +97250 - 4797775
 Email: max.toplavia@gmail.com
-
-
-
 Date of birth: 8/18/1983
-Address: Holon, 20 Rehavam Zaevi St
 
 
-Wanted jobs: DevSecOps SRE, linux operating systems engineer
+Wanted jobs: DevSecOps SRE, linux operating systems engineer,IT support
 
 
-Eeducation:
+Education:
 
 2021: Bar Ilan University AWS Certified Cloud Practitioner
 
@@ -45,6 +41,6 @@ English: great technical level
 Hebrew: at a native language level
 Russian - at a native language level
 
-additional qualities
+additional qualities 
 Hardworking and serious, excellent human relations, open-minded, reliable.
 High work ethic, quick adaptation to changes, high learning ability.
