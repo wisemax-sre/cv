@@ -2,10 +2,12 @@ Maxim Marzlyakov - DevSecOps, linux operating systems engineer
 
 Phone: +97250 - 4797775
 Email: max.toplavia@gmail.com
+
 Date of birth: 8/18/1983
 
 
 Wanted jobs: DevSecOps SRE, linux operating systems engineer,IT support
+
 
 
 Education:
@@ -21,6 +23,7 @@ Education:
 2004 - 2003: Newman Center College - computer technician and communication networks.
 
 2003 - 1996: Shobach Moft College - full matriculation in electronics, electricity and computers.
+
 
 Experience in the industry
 2019-2022: Tech-IT company - network manager,IT manager, devops
