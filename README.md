@@ -1,4 +1,4 @@
-Maxim Marzlyakov - DevSecOps, linux operating systems engineer
+Maxim Marzlyakov - DevSecOps, linux operating systems engineer, IT support professional
 
 Phone: +97250 - 4797775
 Email: max.toplavia@gmail.com
