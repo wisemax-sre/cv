@@ -1,6 +1,6 @@
 Maksim Merzlyakov : DevSecOps, linux operating systems engineer, IT support professional .
 
-Phone: +97250 - 4797775
+Phone: +97250 - 4797775 ,
 Email: max.toplavia@gmail.com
 
 Date of birth: 8/18/1983
