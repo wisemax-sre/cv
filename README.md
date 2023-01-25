@@ -26,7 +26,7 @@ Education:
 
 
 Experience in the industry
-2019-2023: Tech-IT company - network team manager,IT team manager, devops.
+2019-2023: Vayyar imaging - network team manager,IT team manager, devops.
 
 As part of the position: automation of IT processes, creation of UBUNTU operating system services
 Creation and conversion of different work environments such as containers and AWS and AZURE, support for physical servers, backups, installations, automation and monitoring.Managing and monitoring,updating,toubleshooting Windows servers 2016 & Linux (CentOs 7, RHEL7.3, Ubuntu 18) servers, load balancing .
