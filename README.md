@@ -1,12 +1,12 @@
-Maksim Merzlyakov : DevSecOps, linux operating systems engineer, IT support professional .
+Maksim Merzlyakov : DevSecOps, linux operating systems engineer, IT specialist & support professional.
 
-Phone: +13472584652 ,
-Email: max.toplavia@gmail.com
+Phone: +13472584652
 
-Date of birth: 8/18/1983
+mail: max.toplavia@gmail.com
 
 
-Wanted jobs: DevOps SRE, linux operating systems engineer,IT support/techician
+
+Wanted jobs: DevOps SRE, linux & windows operating systems engineer,IT specialist/support/techician
 
 
 
@@ -25,7 +25,7 @@ Education:
 2003 - 1996: Shobach Moft College - full matriculation in electronics, electricity and computers.
 
 
-Experience in the industry
+Experience :
 2019-2023: Tech-IT contractor at Vayyar imaging - network team manager,IT specialist, devops.
 
 As part of the position: automation of IT processes, creation of UBUNTU operating system services
